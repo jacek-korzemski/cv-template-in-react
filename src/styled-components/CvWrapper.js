@@ -2,13 +2,12 @@ import styled from "styled-components";
 
 const CvWrapper = styled.div`
   padding: 16px;
-  min-width: 760px;
-  max-width: 760px;
-  min-height: 1088px;
-  max-height: 1088px;
+  min-width: 840px;
+  max-width: 840px;
+  min-height: 1188px;
+  max-height: 1188px;
   width: 100%;
   height: 100%;
-  border: 1px solid rgba(0, 0, 0, 0.1);
   position: absolute;
   display: flex;
   flex-wrap: wrap;

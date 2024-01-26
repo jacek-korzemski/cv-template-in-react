@@ -5,3 +5,4 @@ export const mail = process.env.REACT_APP_MAIL;
 export const phone = process.env.REACT_APP_PHONE;
 export const github = process.env.REACT_APP_GITHUB;
 export const legalNote = process.env.REACT_APP_LEGAL_NOTE;
+export const legalNoteEnUs = process.env.REACT_APP_LEGAL_NOTE_EN_US;

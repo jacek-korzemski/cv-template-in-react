@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
-const RightSection = styled.div`
+const FullSection = styled.div`
+  width: 100%;
   margin-bottom: 10px;
   font-size: 14px;
   h1 {
@@ -12,6 +13,7 @@ const RightSection = styled.div`
   h1,
   h2,
   h3 {
+    width: 100%;
     text-align: center;
     margin: 0 0 12px 0;
     position: relative;
@@ -100,4 +102,4 @@ const RightSection = styled.div`
   }
 `;
 
-export default RightSection;
+export default FullSection;

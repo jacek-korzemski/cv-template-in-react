@@ -6,6 +6,7 @@ const LeftSection = styled.div`
   line-height: 1.5rem;
   p {
     margin: 0;
+    font-size: 14px;
     padding: 0;
     &.strong {
       font-weight: bold;
