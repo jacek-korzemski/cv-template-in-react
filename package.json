@@ -2,6 +2,7 @@
   "name": "cv-pdf-generator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://metalmusic.pl/cv/",
   "dependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.2",
