@@ -108,6 +108,18 @@ const App = () => {
               <h2 className="header">Doświadczenie</h2>
               <ul>
                 <li className="list-parent">
+                  <p>Cyfrowy Polsat</p>
+                  <ul>
+                    <li>
+                      Styczeń 2023 - obecnie: Frontend Developer
+                      <br />- Rozwój i utrzymanie aplikacji w technologii
+                      React/Next.JS
+                      <br />- Rozwój i utrzymanie aplikacji JS do bezpiecznogo
+                      odtwarzania filmów z DRM
+                    </li>
+                  </ul>
+                </li>
+                <li className="list-parent">
                   <p>Grupa Pracuj S.A.</p>
                   <ul>
                     <li>
